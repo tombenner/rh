@@ -1,3 +1,5 @@
+require 'rh/has_url'
+
 module Rh
   class Klass
     include HasUrl

@@ -1,4 +1,5 @@
 require 'cgi'
+require 'rh/has_url'
 
 module Rh
   class Method
