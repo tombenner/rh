@@ -2,6 +2,8 @@ Rh
 =====
 Fast Ruby documentation lookup
 
+[<img src="https://secure.travis-ci.org/tombenner/rh.png" />](http://travis-ci.org/tombenner/rh)
+
 Overview
 --------
 
